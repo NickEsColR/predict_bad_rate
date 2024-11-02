@@ -1,0 +1,15 @@
+ipykernel
+fastparquet
+joblib
+matplotlib
+notebook
+pandas
+plotly
+pyyaml
+scikit-learn
+scipy
+seaborn
+shap
+tqdm
+wandb
+xgboost
